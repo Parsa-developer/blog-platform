@@ -3,8 +3,8 @@
 [![Django](https://img.shields.io/badge/Django-4.2-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/blog-platform?style=social)](https://github.com/yourusername/blog-platform/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/blog-platform)](https://github.com/yourusername/blog-platform/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/Parsa-developer/blog-platform?style=social)](https://github.com/Parsa-developer/blog-platform/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Parsa-developer/blog-platform)](https://github.com/Parsa-developer/blog-platform/commits/main)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ![Blog Demo](https://img.shields.io/badge/Live_Demo-Online-success?style=for-the-badge&color=00cc00)
