@@ -66,4 +66,4 @@ black --check .
 
 ---
 
-**Happy Blogging!** 🎉 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Parsa-developer.blog-platform)
+**Happy Blogging!** 🎉
